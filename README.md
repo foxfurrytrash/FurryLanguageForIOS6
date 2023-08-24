@@ -17,7 +17,7 @@ Step 1. Go to /system/library/coreservices/springboard.app
 
 Step 2. Copy the 'springboard.strings' file into two folders named 'en_gb.iproj' and 'English.iproj'
 
-Step 3. Overwrite existing fole whn prompted and reboot your device
+Step 3. Overwrite existing file when prompted and reboot your device
 
 
 
