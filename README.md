@@ -11,6 +11,9 @@ You will also need iFile installed
 
 
 # How to install:
+Make a backup of your device before proceeding
+
+
 
 
 Step 1. Go to /system/library/coreservices/springboard.app
